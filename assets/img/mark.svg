@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="AwesomeTravelPlans paper plane mark">
+  <rect width="512" height="512" rx="116" fill="#11231f"/>
+  <circle cx="381" cy="131" r="35" fill="#d9553f"/>
+  <path d="M92 309 421 108 300 419 250 316Z" fill="#fbf7ee"/>
+  <path d="M421 108 250 316 300 419Z" fill="#e5d7c0"/>
+  <path d="M92 309 250 316 421 108" fill="none" stroke="#11231f" stroke-opacity=".16" stroke-width="7"/>
+</svg>
